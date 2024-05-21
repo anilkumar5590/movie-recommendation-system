@@ -1,3 +1,5 @@
+# Hi, I'm Anil Kumar! 👋
+
 ## 🎦Movie Recommendation System
 This repository contains a movie recommendation system built using Python, Pandas, Scikit-Learn, and Streamlit. The system recommends movies based on their similarity to a given movie using a combination of collaborative filtering and content-based filtering.
 
